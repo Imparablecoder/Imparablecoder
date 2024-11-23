@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <img src="![ezgif-6-065860a627](https://github.com/user-attachments/assets/97b22f52-c4dd-406b-adf8-cdeb516dad8a)" height="150" alt="stats graph"  />
-  <img src="![ezgif-6-065860a627](https://github.com/user-attachments/assets/97b22f52-c4dd-406b-adf8-cdeb516dad8a)" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imparablecoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Imparablecoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" ![ezgif-6-065860a627](https://github.com/user-attachments/assets/f76d2eb8-12ac-4538-a270-22f409e3765e)  />
+
 
 
 ###
