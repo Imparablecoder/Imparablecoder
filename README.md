@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" ![ezgif-6-065860a627](https://github.com/user-attachments/assets/f76d2eb8-12ac-4538-a270-22f409e3765e)  />
+<img src="https://github.com/user-attachments/assets/f76d2eb8-12ac-4538-a270-22f409e3765e" align="right" height="150" />
+
 
 
 
